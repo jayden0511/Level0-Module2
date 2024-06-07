@@ -8,7 +8,7 @@ def crack_the_safe():
     pass
     # TODO: Your mission: Use the try_code method to crack the safe
     #  by trying all possible combinations
-
+    try_code(guess=wekncrzpasfdkjhcfjse)
 
 # ======================= DO NOT EDIT THE CODE BELOW =========================
 
